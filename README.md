@@ -68,7 +68,7 @@ What insights does the dashboard reveal?
  
 This project demonstrates how simple financial logic, when visualized well, can drive meaningful behavioral change in rural finance.This projects also proves that with modern techinque there can be lot of changes in the farming sector.
 
-#Why This Matters for Rural India 🇮🇳
+# Why This Matters for Rural India 🇮🇳
  
  
 A large portion of rural India operates outside formal financial planning
@@ -79,3 +79,36 @@ Improve financial literacy
 Encourage smart saving behavior
 Reduce dependency on debt
 The project shows that impact does not require complex AI—clarity and structure alone can create change
+
+Note:- while going through Excel file you can see sheets of raw data, clean data, projection sheet where pivot tables are present and finally the dashboard present.
+
+# Dashboard Overview  
+
+The dashboard provides a financial health snapshot of a rural household/community using monthly income, expense, savings, and risk indicators.
+Key Dashboard Components:-
+1. Total Income
+Aggregated annual income across all months
+
+2. Total Expense
+Cumulative monthly expenses, highlighting consumption patterns
+
+3. Total Savings & Savings Rate (%)
+Net savings and proportion of income saved
+
+4. Annual Savings Advantage (Smart vs Traditional)
+Quantifies additional savings generated through smarter financial behavior
+
+5. Smart vs Traditional Savings (Bar Chart)
+Month-wise comparison of optimized vs traditional saving methods
+
+6. 12-Month Savings Trend (Area Chart)
+Time-series projection showing savings consistency and volatility
+
+7. Expense Distribution (Donut Chart)
+Share of expenses across smart and traditional categories
+
+8. Income vs Expense Comparison (Bar Chart)
+Monthly surplus/deficit visibility
+
+9. Average Monthly Risk Score (Trend Chart)
+Indicates financial stress based on expense and savings behavior
