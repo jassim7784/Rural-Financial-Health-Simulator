@@ -6,6 +6,7 @@ After watching this video felt to do this project - https://youtu.be/0ClJa5ICJpY
 About
 Gurha Kumawatan is a rural village that represents the financial realities of many agrarian communities in India, where household income is irregular, expenses are necessity-driven, and savings decisions are often influenced by tradition rather than structured planning.
 The village context makes it a suitable reference point for simulating realistic rural financial behavior, focusing on income–expense balance, savings habits, and financial risk awareness.
+After knowing about the village and its adaptibility towards newer and smart technology paved ways to other farmers inorder to create smart farming ecosytem where efforts doesnt get wasted, thus by doing so profits are generated. As we watch the video we can know the techonologies have been adapted from Israel farming techniques after few farmers have visited their farms inorder to learn and adapt to newer techonolgy and system to scale up the process. Nowdays this is becoming common inorder to inclucate the level of farming and modernize it.
 
 1. Problem Statement
 What problem are you solving?
@@ -85,7 +86,9 @@ Note:- while going through Excel file you can see sheets of raw data, clean data
 # Dashboard Overview  
 
 The dashboard provides a financial health snapshot of a rural household/community using monthly income, expense, savings, and risk indicators.
+
 Key Dashboard Components:-
+
 1. Total Income
 Aggregated annual income across all months
 
